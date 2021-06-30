@@ -1,5 +1,4 @@
 # AulaJS
 DescAulaJS
--- Criação de Scripts externos
--- Declarando variaveis
--- Declarando numeros
+-- JavaScript: Completo de A a Z + Projetos Profissionais
+
